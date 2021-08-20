@@ -4,9 +4,10 @@
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=imraghavagr.visitor-badge)](https://github.com/imraghavagr)
-<!--[![GitHub followers](https://img.shields.io/github/followers/imraghavagr.svg?style=social&label=Follow)](https://github.com/imraghavagr?tab=followers)-->
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/imraghavagr) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/imraghavagr)
+<!--[![GitHub followers](https://img.shields.io/github/followers/imraghavagr.svg?style=social&label=Follow)](https://github.com/imraghavagr?tab=followers)-->
+
 
 ---
 <!--
