@@ -1,39 +1,40 @@
 <h1 align="center">Hi there 👋 I am  Raghav Agarwal  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<!--<h3 align="center">Data Analyst and Researcher || ML Team Memebr @DSC VIT BHOPAL || FullStack Machine Learning Enthusiast || Pythoneer 🐍</h3> -->
+<h3 align="center">FullStack Machine Learning Enthusiast || Student Researcher || Pythoneer 🐍 || Ex-Instructor at CK12</h3>
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=imraghavagr.visitor-badge)](https://github.com/imraghavagr)
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=imraghavagr.visitor-badge)](https://github.com/imraghavagr) -->
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/imraghavagr) 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/imraghavagr)
 <!--[![GitHub followers](https://img.shields.io/github/followers/imraghavagr.svg?style=social&label=Follow)](https://github.com/imraghavagr?tab=followers)-->
 
 
----
-<!--
 
 <h2>About Me</h2>
+<p>I am a third year student @VIT University, digging deeper into the world of Computer Science with keen interest in DSA and solving real world problems using Machine Learning.</p>
 
-I'm a mathematically proficient Data Analyst and Machine Learning researcher and practitioner striving towards becoming an expert in **FullStack Machine Learning**. My area of expertise, as of now, includes developing, researching, and productionizing optimum solutions for Real-World Problems by leveraging Machine Learning and Deep Learning technologies.
+
+## Current Goals
+
+__More time to Open Source__
+
+__Mathematically modelling ML models__
+
+__Full Stack Web Dev__
+
 
 ## My GitHub Activity
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=IndraP24&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=imraghavagr&theme=github)
 
 ## 💻 Currently Learning
 
-__CS Undergrad [splz. in AI & ML], Vellore Institute of Technology, Bhopal (2019 - 2024)__
-- Data Visualisation
+__Integrated M.Tech [splz. in AI & ML], Vellore Institute of Technology, Bhopal (2019 - 2024)__
 
-__NYU Deep Learning, Yann LeCun and Alfredo Canziani, Spring 21 (YouTube Playlist)__
+__Data Structures and Algorithms__
 
-__FastAPI with Docker__
+__Full Stack Web Development with NodeJS__
 
-__PyTorch and TensorFlow for Deep Learning__
-
-__JavaScript for Web (Fundamentals, ReactJS, etc.)__
-
----
 
 ### 👨‍💻 My Tech Stack:
 #### Machine Learing Stack:
@@ -44,26 +45,32 @@ __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 <a><img src="https://img.shields.io/badge/Matplotlib%20-%2311557c.svg?&style=for-the-badge&logo=matplotlib&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Seaborn%20-%2314354C.svg?&style=for-the-badge&logo=seaborn&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
-
+<a><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Beautiful%20Soup-27338e?style=for-the-badge&logo=Beautiful%20Soup&logoColor=orange"/></a>
+</br>
+</br>
+<!--
 <a><img src="https://img.shields.io/badge/PyTorch%20-%239932CC.svg?&style=for-the-badge&logo=PyTorch&logoColor=red"/></a>
 <a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/></a>
-</br>
+-->
+
 
 #### Backend/Production:
 <a><img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white"/></a>
+<!--<a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a> 
+<a><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/></a> -->
+
+<!--<a><img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dataversioncontrol&logoColor=white"/></a> -->
 
 #### Other Languages:
 <a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<!--<a><img src="https://img.shields.io/badge/JavaScript?style=for-the-badge&logo=c&logoColor=white"/></a> -->
 
 #### IDEs and Editors:
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
@@ -74,11 +81,11 @@ __JavaScript for Web (Fundamentals, ReactJS, etc.)__
 <a><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/></a>
 
 
----
-### WakaTime Stats
+
+<!-- ### WakaTime Stats -->
 <!--START_SECTION:waka-->
 
--->
+
 <!--
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
