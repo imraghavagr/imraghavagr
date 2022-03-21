@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋 I am  Raghav Agarwal  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<h3 align="center">FullStack Machine Learning Enthusiast || Problem Solving || Student Researcher || Pythoneer 🐍 || Ex-Instructor at CK12</h3>
+<h3 align="center">Ex-Instructor at CK12 || FullStack Machine Learning Enthusiast || Problem Solving || Student Researcher || Pythoneer 🐍</h3>
 
 
 <!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=imraghavagr.visitor-badge)](https://github.com/imraghavagr) -->
