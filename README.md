@@ -1,19 +1,20 @@
 ![raghav](https://user-images.githubusercontent.com/52325383/159206320-eed93e7c-d6a1-41af-b465-b6dec356159e.gif)
 <h1 align="center">Hi there 👋 I am  Raghav Agarwal  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<h3 align="center">500+ on Leetcode || || DSA with C++ || Machine Learning || Pythoneer || Loves Teaching</h3>
+<h3 align="center">500+ on Leetcode || DSA with C++ || Machine Learning || Pythoneer || Loves Teaching</h3>
 
 <h2>About Me</h2>
 <p align="justify">
 My name is Raghav Agarwal and I am a final-year student at VIT University, pursuing an integrated MTech in CSE specialization in AI and ML. I have done my schooling in my hometown which is Banda - a small city located in the historical Bundelkhand region. </p>
 <p align="justify">One of my key strengths is that I understand the battle between time and space complexity that arises while solving any real-life algorithmic problem and I can find a right balance between both these by applying my strong knowledge of various Data Structures and Algorithms, which makes me a problem solver and a valuable asset to any software development team. I am proficient in C++ programming language and have a strong foundation in computer science fundamentals. I can collaborate effectively with my team and adapt quickly to new technologies to solve the project at hand ensuring my contribution to the success of the project.</p>
 
-<h2 align="center">My Leetcode Stats</h2>
-    
+<h2 align="left">My Leetcode Stats</h2>
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/imraghavagr?cache=0?theme=dark&font=source_code_pro&extension=activity)
 
+[![LeetCode user imraghavagr](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fimraghavagr&logo=leetcode&logoColor=yellow)](https://leetcode.com/imraghavagr/)
 
-
+<!--
 ## Current Goals
 
 __More time to Open Source__
@@ -52,7 +53,7 @@ __Full Stack Web Development with NodeJS__
 <a><img src="https://img.shields.io/badge/PyTorch%20-%239932CC.svg?&style=for-the-badge&logo=PyTorch&logoColor=red"/></a>
 <a><img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/></a>
--->
+
 
 
 #### Backend/Production:
