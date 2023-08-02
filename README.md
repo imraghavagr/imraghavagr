@@ -1,22 +1,18 @@
 ![raghav](https://user-images.githubusercontent.com/52325383/159206320-eed93e7c-d6a1-41af-b465-b6dec356159e.gif)
-
 <h1 align="center">Hi there 👋 I am  Raghav Agarwal  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<h3 align="center">500+ on Leetcode || DSA with C++ || Machine Learning || Pythoneer || Loves Teaching</h3>
+<h3 align="center">500+ on Leetcode || || DSA with C++ || Machine Learning || Pythoneer || Loves Teaching</h3>
 
-<!--
-<p align="center">
-    <a href="https://github.com/imraghavagr/imraghavagr"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
-    <a href="https://github.com/imraghavagr/imraghavagr/stargazers"><img src="https://img.shields.io/github/stars/imraghavagr/imraghavagr.svg?logo=github"></a>
--->
 <h2>About Me</h2>
 <p align="justify">
 My name is Raghav Agarwal and I am a final-year student at VIT University, pursuing an integrated MTech in CSE specialization in AI and ML. I have done my schooling in my hometown which is Banda - a small city located in the historical Bundelkhand region. </p>
-<p align="justify">One of my key strengths is that I understand the battle between time and space complexity that arises while solving any real-life algorithmic problem and I can find a right balance between both these by applying my strong knowledge of various Data Structures and Algorithms, which makes me a problem solver and a valuable asset to any software development team. I am proficient in C++ programming language and have a strong foundation in computer science fundamentals. I can collaborate effectively with my team and adapt quickly to new technologies to solve the project at hand ensuring my contribution to the success of the project.
-</p>
-<h2>My Leetcode Stats</h2>
-![LeetCode Stats](https://leetcode.card.workers.dev/imraghavagr?theme=auto&font=source_code_pro&extension=null)
+<p align="justify">One of my key strengths is that I understand the battle between time and space complexity that arises while solving any real-life algorithmic problem and I can find a right balance between both these by applying my strong knowledge of various Data Structures and Algorithms, which makes me a problem solver and a valuable asset to any software development team. I am proficient in C++ programming language and have a strong foundation in computer science fundamentals. I can collaborate effectively with my team and adapt quickly to new technologies to solve the project at hand ensuring my contribution to the success of the project.</p>
+
+<h2 align="center">My Leetcode Stats</h2>
+    
+![LeetCode Stats](https://leetcode.card.workers.dev/imraghavagr?cache=0?theme=auto&font=source_code_pro&extension=activity)
+
+
 
 ## Current Goals
 
@@ -28,7 +24,6 @@ __Full Stack Web Dev__
 
 
 ## My GitHub Activity
-
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=imraghavagr&theme=github)
 
 ## 💻 Currently Learning
