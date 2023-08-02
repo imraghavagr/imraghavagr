@@ -10,7 +10,7 @@ My name is Raghav Agarwal and I am a final-year student at VIT University, pursu
 
 <h2 align="center">My Leetcode Stats</h2>
     
-![LeetCode Stats](https://leetcode.card.workers.dev/imraghavagr?cache=0?theme=auto&font=source_code_pro&extension=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/imraghavagr?cache=0?theme=dark&font=source_code_pro&extension=activity)
 
 
 
