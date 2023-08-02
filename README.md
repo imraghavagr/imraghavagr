@@ -2,23 +2,19 @@
 
 <h1 align="center">Hi there 👋 I am  Raghav Agarwal  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
-<h3 align="center">Ex-Instructor at CK12 || FullStack Machine Learning Enthusiast || Problem Solving || Student Researcher || Pythoneer 🐍</h3>
+<h3 align="center">500+ on Leetcode || DSA with C++ || Machine Learning || Pythoneer || Loves Teaching</h3>
 
-
+<!--
 <p align="center">
     <a href="https://github.com/imraghavagr/imraghavagr"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
-    <!--<a href="https://github.com/imraghavagr/imraghavagr/stargazers"><img src="https://img.shields.io/github/stars/imraghavagr/imraghavagr.svg?logo=github"></a>-->
-    <!--<a href="https://github.com/imraghavagr/imraghavagr/network/members"><img src="https://img.shields.io/github/forks/imraghavagr/imraghavagr.svg?color=blue&logo=github"></a>-->
-    <img src="https://visitor-badge.glitch.me/badge?page_id=imraghavagr.visitor-badge" alt="visitors"/>
-</p>
-
-
-
-
+    <a href="https://github.com/imraghavagr/imraghavagr/stargazers"><img src="https://img.shields.io/github/stars/imraghavagr/imraghavagr.svg?logo=github"></a>
+-->
 <h2>About Me</h2>
-<p>I am a third year student @VIT University, digging deeper into the world of Computer Science with keen interest in DSA and solving real world problems using Machine Learning.</p>
-
+<p align="justify">
+My name is Raghav Agarwal and I am a final-year student at VIT University, pursuing an integrated MTech in CSE specialization in AI and ML. I have done my schooling in my hometown which is Banda - a small city located in the historical Bundelkhand region. </p>
+<p align="justify">One of my key strengths is that I understand the battle between time and space complexity that arises while solving any real-life algorithmic problem and I can find a right balance between both these by applying my strong knowledge of various Data Structures and Algorithms, which makes me a problem solver and a valuable asset to any software development team. I am proficient in C++ programming language and have a strong foundation in computer science fundamentals. I can collaborate effectively with my team and adapt quickly to new technologies to solve the project at hand ensuring my contribution to the success of the project.
+</p>
 
 ## Current Goals
 
