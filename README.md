@@ -1,6 +1,5 @@
 ![raghav](https://user-images.githubusercontent.com/52325383/159206320-eed93e7c-d6a1-41af-b465-b6dec356159e.gif)
-<h1 align="center">Hi there 👋 I am  Raghav Agarwal  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-
+<h1 align="center"> नमस्ते (Namaste)🙏🏻 I'm  Raghav Agarwal  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <h3 align="center">500+ on Leetcode || DSA with C++ || Machine Learning || Pythoneer || Loves Teaching</h3>
 
 <h2>About Me</h2>
@@ -46,7 +45,7 @@ int main(){
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
 
 
-<h3 align="center">📫 Reach out to me on</h3>
+<h4 align="center">📫 Reach out to me on</h4>
   <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/imraghavagr"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://twitter.com/imraghavagr"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
