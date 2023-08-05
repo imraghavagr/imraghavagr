@@ -18,7 +18,7 @@ class Raghav{
       languages_spoken = {"English", "Hindi"};
     }
     void current_status(){
-      cout<<"I am a final year student at "<<college<<" persuing "<<degree<<endl;
+      cout<<"I am a final year student at "<<college<<" pursuing "<<degree<<endl;
     };
     void say_bye(){
       cout<<"Thanks for dropping by, how you find some of my work interesting."<<endl;
