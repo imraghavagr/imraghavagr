@@ -21,7 +21,8 @@ class Raghav{
       cout<<"I am a final year student at "<<college<<" pursuing "<<degree<<endl;
     };
     void say_bye(){
-      cout<<"Thanks for dropping by, how you find some of my work interesting."<<endl;
+      cout<<"Thanks for dropping by. How did you find my 
+work? Interesting?"<<endl;
     }
 };
 int main(){
