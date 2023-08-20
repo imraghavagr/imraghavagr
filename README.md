@@ -1,6 +1,6 @@
 ![raghav](https://user-images.githubusercontent.com/52325383/159206320-eed93e7c-d6a1-41af-b465-b6dec356159e.gif)
 <h1 align="center"> नमस्ते (Namaste)🙏🏻 I'm  Raghav Agarwal  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h3 align="center">500+ on Leetcode || DSA with C++ || Machine Learning || Pythoneer || Loves Teaching</h3>
+<h3 align="center">550+ on Leetcode || DSA with C++ || Machine Learning || Pythoneer || Loves Teaching</h3>
 
 <h2>About Me</h2>
 
