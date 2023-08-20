@@ -11,7 +11,7 @@ class Raghav{
     vector<string> languages_spoken;
   public:
     Raghav(){
-      name = "Raghav";
+      name = "Raghav Agarwal";
       college = "Vellore Institute of Technology";
       degree = "Integrated M.Tech in CSE with spec. in AI and ML";
       strength = "Strong hold in DS and Algo";
